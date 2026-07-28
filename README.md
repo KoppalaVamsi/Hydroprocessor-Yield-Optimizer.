@@ -53,7 +53,7 @@ Ensure you have Python 3.13+ installed on your system.
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/KoppalaVamsi/Hydroprocessor-Digital-Twin.git 
-cd KoppalaVamsi/Hydroprocessor-Digital-Twin
+cd Hydroprocessor-Digital-Twin
 ```
 
 ### 3. Install Dependencies
