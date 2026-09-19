@@ -1,4 +1,4 @@
-# Hydroprocessor Digital Twin & Prescriptive Optimization Platform
+# Hydroprocessor Yield Optimizer & Prescriptive Optimization Platform
 
 An Advanced Process Control (APC) digital twin and prescriptive optimization engine for a **Hydroprocessor**. 
 
