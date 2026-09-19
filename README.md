@@ -1,6 +1,6 @@
 # Hydroprocessor Yield Optimizer & Prescriptive Optimization Platform
 
-An Advanced Process Control (APC) digital twin and prescriptive optimization engine for a **Hydroprocessor**. 
+A predictive and prescriptive optimization engine for a **Hydroprocessor**. 
 
 This platform bridges data-driven machine learning models with first-principles thermodynamic physics to deliver real-time predictions for the product yields & specifications while providing the set-point recommendations for blended diesel quality targets ($D95$ Distillation Cut Points and Flash Points).
 
